@@ -29,7 +29,7 @@ Um sistema de diagnóstico deve ser desenvolvido para um farol de bicicleta movi
 (b) Insira todas as CPTs (Tabelas de Probabilidade Condicional) faltantes no gráfico.  
 (c) Atribua valores plausíveis para as probabilidades (livre escolha).  
 (d) Demonstre que a rede **não** contém uma aresta entre `Str` e `Li`.  
-(e) Calcule \( P(V \mid Str = \text{snow\_covered}) \).  
+(e) Calcule P(V|Str = snow_covered)
 
 #### **2ª Questão**  
 Implemente o problema da 1ª questão em **ProbLog** (baseado no [tutorial básico](https://dtai.cs.kuleuven.be/problog/tutorial/basic/02_bayes.html)) e mostre a solução para o item 1ª(e).  
