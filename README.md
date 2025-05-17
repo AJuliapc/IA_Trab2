@@ -38,3 +38,15 @@ Um sistema de diagnóstico deve ser desenvolvido para um farol de bicicleta movi
 
 #### **2ª Questão**  
 Implemente o problema da 1ª questão em **ProbLog** (baseado no [tutorial básico](https://dtai.cs.kuleuven.be/problog/tutorial/basic/02_bayes.html)) e mostre a solução para o item 1ª(e).  
+
+# Resultado da implementação
+
+Como esperado, os valores testados e calculados são condizentes. Para verificar:
+
+1. Entre em: https://dtai.cs.kuleuven.be/problog/editor.html
+2. E teste, seguindo os seguintes passos:
+    * Copie o conteúdo do arquivo questao2.pl
+    * Cole no editor
+    * Clique em "Evaluate"
+
+![image](https://github.com/user-attachments/assets/5b4ed5cf-aee2-4e10-9166-d4d2ef0c1d54)
