@@ -1,3 +1,6 @@
+**Aluno (a): Ana Júlia Pereira Corrêa**
+____
+
 # Inteligência Artifical - Trabalho 2: Raciocínio Probabilístico
 
 #### Descrição do Problema  
