@@ -1,4 +1,6 @@
 **Aluno (a): Ana Júlia Pereira Corrêa**
+
+**Professor: Edjard Mota**
 ____
 
 # Inteligência Artifical - Trabalho 2: Raciocínio Probabilístico
